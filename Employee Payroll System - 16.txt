@@ -1,0 +1,14 @@
+Problem Statement 1: Record Classes
+Title: Employee Payroll System
+
+Description:
+Create a Java application to manage employee records using Java 16's record classes. Each record should represent an employee with fields for name, ID, department, and annual salary. The system should allow adding new employee records, updating existing ones, and calculating monthly payroll details.
+
+Requirements:
+
+Define an Employee record class with fields for name (String), ID (String), department (String), and annual salary (double).
+Implement methods to:
+Add a new employee record.
+Update the annual salary of an existing employee.
+Calculate and display the monthly salary for all employees.
+Ensure the application handles invalid inputs gracefully and employs record classes efficiently to manage employee data.
